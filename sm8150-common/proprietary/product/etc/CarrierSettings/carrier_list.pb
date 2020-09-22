@@ -771,6 +771,12 @@ LYCAMOBILE
 
 h3_gb
 23594
+
+	gigsky_us
+23801"6E
+
+	gigsky_us
+23801"6F
 
 tdc_dk
 238012380101
@@ -840,6 +846,9 @@ telenor_se
 
 sky_gb
 24007"0C
+
+	gigsky_us
+24007"6E
 
 	gigsky_us
 24007"6F
@@ -1625,6 +1634,9 @@ tmobile_us
 310380"50
 
 	gigsky_us
+310380"6E
+
+	gigsky_us
 310380"6F
 
 att_us
@@ -2057,9 +2069,6 @@ MOSAIC RPT
 
 311740
 311740
-
-cellcommno_us
-311840"C1
 
 
 cellcom_us
@@ -2121,6 +2130,9 @@ $
 
 firstnetlab_us
 312670
+
+	gigsky_us
+312870
 
 firstnet_us
 313100
@@ -3630,8 +3642,11 @@ rakuten_jp
 fet_tw
 46601
 
-apt_tw
+fet_tw
 46602
+
+fet_tw
+46603
 
 apt_tw
 46605
@@ -4773,4 +4788,4 @@ $
 74810
 
 bics_be
-90158­’ßÀJ
+90158°’ßÀJ
